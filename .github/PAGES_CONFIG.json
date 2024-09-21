@@ -1,0 +1,4 @@
+{
+  "branch": "main", // or the branch you're using for GitHub Pages
+  "path": "index.html"  
+}
